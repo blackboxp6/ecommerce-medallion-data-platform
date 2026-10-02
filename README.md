@@ -168,7 +168,7 @@ Gold produces business-facing marts:
 
 These are intentionally shaped for downstream BI tools.
 
-## Suggested Portfolio Extensions
+## Portfolio Extensions
 
 1. Replace generated CSV with an API or public dataset.
 2. Add incremental ingestion using ingestion timestamps.
