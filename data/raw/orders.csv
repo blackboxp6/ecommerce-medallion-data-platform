@@ -1,0 +1,504 @@
+order_id,order_timestamp,customer_id,customer_name,region,product_id,product_name,category,quantity,unit_price,status
+1,2026-05-06 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+2,2026-08-05 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,1,900.0,completed
+3,2026-09-16 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,2,1400.0,completed
+4,2026-04-23 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+5,2026-03-23 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,1,2500.0,completed
+6,2026-04-21 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,2,2200.0,pending
+7,2026-07-14 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+8,2026-01-23 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,3,650.0,completed
+9,2026-05-31 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,1,180.0,cancelled
+10,2026-02-05 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,2,650.0,completed
+11,2026-02-10 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,3,2500.0,cancelled
+12,2026-08-21 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,3,180.0,completed
+13,2026-07-01 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+14,2026-03-29 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,1,900.0,completed
+15,2026-07-14 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+16,2026-01-29 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,3,900.0,completed
+17,2026-07-25 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+18,2026-04-19 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,3,650.0,completed
+19,2026-03-15 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+20,2026-08-08 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,3,900.0,cancelled
+21,2026-03-12 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,2,2200.0,completed
+22,2026-02-26 00:00:00,2,Ben Santos,Cebu,302,Backpack,Lifestyle,1,2500.0,completed
+23,2026-02-02 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,4,2500.0,completed
+24,2026-01-06 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,3,650.0,completed
+25,2026-06-24 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,3,900.0,completed
+26,2026-01-02 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,pending
+27,2026-09-17 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,2,650.0,cancelled
+28,2026-03-20 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,2,2500.0,completed
+29,2026-06-15 00:00:00,3,Cara Lim,Davao,202,Desk Organizer,Office,1,650.0,completed
+30,2026-05-03 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,3,2200.0,completed
+31,2026-02-05 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,4,3200.0,pending
+32,2026-03-26 00:00:00,3,Cara Lim,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+33,2026-06-09 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,2,1400.0,completed
+34,2026-03-03 00:00:00,6,Francis Yu,Cebu,201,Notebook,Office,4,180.0,completed
+35,2026-04-28 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,1,2200.0,completed
+36,2026-04-28 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+37,2026-02-06 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+38,2026-04-20 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+39,2026-07-28 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+40,2026-07-01 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,4,900.0,completed
+41,2026-02-20 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,1,2500.0,completed
+42,2026-05-08 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,1,2500.0,completed
+43,2026-04-04 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+44,2026-08-15 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+45,2026-02-17 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,1,3200.0,pending
+46,2026-09-06 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+47,2026-07-14 00:00:00,7,Grace Ong,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+48,2026-05-27 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+49,2026-06-01 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,2,1400.0,completed
+50,2026-06-10 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,1,650.0,completed
+51,2026-01-30 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,2,650.0,pending
+52,2026-02-05 00:00:00,2,Ben Santos,Cebu,302,Backpack,Lifestyle,2,2500.0,completed
+53,2026-05-07 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,1,180.0,completed
+54,2026-08-03 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,1,650.0,completed
+55,2026-06-10 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,2,2200.0,completed
+56,2026-08-23 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,3,1400.0,completed
+57,2026-02-21 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+58,2026-03-09 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,3,650.0,pending
+59,2026-05-26 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+60,2026-06-03 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,1,650.0,pending
+61,2026-03-01 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,3,1400.0,cancelled
+62,2026-04-18 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,3,2200.0,completed
+63,2026-09-16 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,3,900.0,completed
+64,2026-05-22 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+65,2026-05-15 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,2,2500.0,completed
+66,2026-01-05 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,4,650.0,completed
+67,2026-07-09 00:00:00,3,Cara Lim,Davao,202,Desk Organizer,Office,1,650.0,completed
+68,2026-01-22 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,2,180.0,completed
+69,2026-05-08 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,2,2200.0,completed
+70,2026-03-21 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,4,2500.0,pending
+71,2026-04-01 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,2,2500.0,cancelled
+72,2026-07-30 00:00:00,1,Ana Cruz,Metro Manila,102,Wireless Mouse,Electronics,3,1400.0,completed
+73,2026-02-25 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,2,2200.0,completed
+74,2026-04-24 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,4,2500.0,completed
+75,2026-04-27 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,3,2200.0,completed
+76,2026-05-23 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,3,180.0,cancelled
+77,2026-06-19 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,4,2200.0,pending
+78,2026-05-16 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,2,2200.0,completed
+79,2026-08-12 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,completed
+80,2026-05-11 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,2,180.0,completed
+81,2026-07-06 00:00:00,7,Grace Ong,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+82,2026-03-05 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,3,650.0,completed
+83,2026-07-29 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,3,650.0,completed
+84,2026-04-09 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,2,650.0,completed
+85,2026-06-04 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,2,900.0,completed
+86,2026-04-18 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,completed
+87,2026-08-15 00:00:00,6,Francis Yu,Cebu,201,Notebook,Office,4,180.0,completed
+88,2026-02-13 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,2,2500.0,completed
+89,2026-06-08 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+90,2026-01-24 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,1,1400.0,completed
+91,2026-08-22 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,1,650.0,completed
+92,2026-09-11 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+93,2026-02-24 00:00:00,3,Cara Lim,Davao,301,Water Bottle,Lifestyle,1,900.0,completed
+94,2026-01-26 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+95,2026-08-26 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,2,180.0,completed
+96,2026-09-16 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,4,2500.0,completed
+97,2026-08-19 00:00:00,8,Henry Ramos,,102,Wireless Mouse,Electronics,4,1400.0,completed
+98,2026-09-24 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+99,2026-02-09 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+100,2026-06-13 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,cancelled
+101,2026-04-29 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,2,1400.0,completed
+102,2026-02-02 00:00:00,3,Cara Lim,Davao,301,Water Bottle,Lifestyle,2,900.0,completed
+103,2026-08-01 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,4,650.0,completed
+104,2026-07-14 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,1,180.0,completed
+105,2026-08-03 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+106,2026-05-20 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,2,180.0,completed
+107,2026-07-27 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,3,180.0,completed
+108,2026-07-21 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,1,1400.0,completed
+109,2026-03-11 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,4,3200.0,cancelled
+110,2026-07-14 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+111,2026-07-14 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,3,-2200.0,completed
+112,2026-08-29 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,completed
+113,2026-02-05 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,2,2200.0,completed
+114,2026-05-07 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+115,2026-05-03 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+116,2026-08-27 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,2,650.0,completed
+117,2026-03-25 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,1,1400.0,pending
+118,2026-06-09 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,1,650.0,completed
+119,2026-02-08 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,2,180.0,completed
+120,2026-03-03 00:00:00,4,Diego Reyes,Metro Manila,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+121,2026-07-09 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+122,2026-09-08 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+123,2026-03-20 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,4,900.0,completed
+124,2026-08-27 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,4,650.0,completed
+125,2026-02-14 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,2,2200.0,completed
+126,2026-07-14 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+127,2026-04-04 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,3,2500.0,completed
+128,2026-06-24 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,3,2500.0,completed
+129,2026-09-22 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,1,650.0,pending
+130,2026-09-08 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,4,1400.0,completed
+131,2026-09-09 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+132,2026-04-24 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+133,2026-08-31 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,completed
+134,2026-06-30 00:00:00,6,Francis Yu,Cebu,201,Notebook,Office,3,180.0,completed
+135,2026-04-29 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,3,2200.0,completed
+136,2026-04-05 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,completed
+137,2026-02-21 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,3,2200.0,cancelled
+138,2026-04-02 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,3,1400.0,completed
+139,2026-01-28 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,1,2200.0,completed
+140,2026-02-22 00:00:00,3,Cara Lim,Davao,301,Water Bottle,Lifestyle,4,900.0,cancelled
+141,2026-08-14 00:00:00,5,Ella Tan,Iloilo,201,Notebook,Office,4,180.0,completed
+142,2026-02-28 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,cancelled
+143,2026-01-28 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,1,180.0,completed
+144,2026-03-02 00:00:00,5,Ella Tan,Iloilo,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+145,2026-09-25 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+146,2026-06-06 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,4,2200.0,completed
+147,2026-04-17 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,1,650.0,completed
+148,2026-03-22 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,1,900.0,completed
+149,2026-07-29 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,1,1400.0,completed
+150,2026-04-29 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,1,2200.0,completed
+151,2026-02-06 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+152,2026-08-06 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,2,2500.0,completed
+153,2026-05-17 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,2,900.0,cancelled
+154,2026-06-07 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+155,2026-08-28 00:00:00,5,Ella Tan,Iloilo,201,Notebook,Office,1,180.0,completed
+156,2026-08-13 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+157,2026-05-09 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,3,180.0,completed
+158,2026-05-18 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,completed
+159,2026-05-23 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,4,180.0,completed
+160,2026-02-16 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+161,2026-02-23 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,cancelled
+162,2026-05-28 00:00:00,6,Francis Yu,Cebu,201,Notebook,Office,4,180.0,completed
+163,2026-08-21 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+164,2026-07-26 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,1,2200.0,cancelled
+165,2026-07-31 00:00:00,1,Ana Cruz,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+166,2026-08-15 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,4,650.0,completed
+167,2026-05-28 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,2,2200.0,completed
+168,2026-05-03 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+169,2026-07-28 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,1,650.0,completed
+170,2026-03-20 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,1,180.0,completed
+171,2026-08-01 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,3,650.0,cancelled
+172,2026-03-16 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+173,2026-05-22 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,1,2500.0,completed
+174,2026-01-02 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,completed
+175,2026-03-18 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,4,2500.0,completed
+176,2026-07-13 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,3,2200.0,completed
+177,2026-05-03 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,2,2500.0,completed
+178,2026-01-23 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,4,2500.0,completed
+179,2026-07-17 00:00:00,8,Henry Ramos,Davao,301,Water Bottle,Lifestyle,4,900.0,pending
+180,2026-03-06 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,1,180.0,completed
+181,2026-08-14 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,1,2500.0,completed
+182,2026-07-29 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,2,3200.0,cancelled
+183,2026-05-16 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+184,2026-06-18 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,cancelled
+185,2026-01-19 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+186,2026-04-27 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,3,900.0,completed
+187,2026-08-16 00:00:00,7,Grace Ong,Metro Manila,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+188,2026-06-16 00:00:00,5,Ella Tan,Iloilo,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+189,2026-08-09 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,3,2200.0,completed
+190,2026-03-29 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+191,2026-09-12 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,cancelled
+192,2026-05-11 00:00:00,3,Cara Lim,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+193,2026-05-28 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,4,2500.0,completed
+194,2026-06-26 00:00:00,3,Cara Lim,,101,Mechanical Keyboard,Electronics,4,3200.0,pending
+195,2026-05-09 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+196,2026-09-05 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,4,1400.0,completed
+197,2026-06-01 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,3,650.0,pending
+198,2026-05-21 00:00:00,5,Ella Tan,Iloilo,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+199,2026-05-27 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,4,650.0,completed
+200,2026-04-23 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,3,650.0,completed
+201,2026-02-19 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,2,900.0,cancelled
+202,2026-01-18 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+203,2026-06-17 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+204,2026-07-07 00:00:00,3,Cara Lim,Davao,102,Wireless Mouse,Electronics,2,1400.0,completed
+205,2026-05-12 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,2,2500.0,cancelled
+206,2026-06-23 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,3,2500.0,completed
+207,2026-04-26 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,2,3200.0,cancelled
+208,2026-02-16 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+209,2026-08-21 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,completed
+210,2026-07-10 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,4,650.0,completed
+211,2026-06-17 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,1,180.0,cancelled
+212,2026-08-26 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,cancelled
+213,2026-03-01 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+214,2026-03-01 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+215,2026-07-09 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,4,180.0,completed
+216,2026-08-01 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+217,2026-05-24 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,4,650.0,completed
+218,2026-08-16 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,4,1400.0,pending
+219,2026-07-03 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+220,2026-08-21 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,1,1400.0,completed
+221,2026-01-26 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,completed
+222,2026-02-05 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,2,-1400.0,cancelled
+223,2026-04-30 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+224,2026-05-22 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,1,2500.0,cancelled
+225,2026-03-31 00:00:00,3,Cara Lim,Davao,102,Wireless Mouse,Electronics,3,1400.0,completed
+226,2026-07-03 00:00:00,1,Ana Cruz,Metro Manila,102,Wireless Mouse,Electronics,1,1400.0,completed
+227,2026-01-09 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,3,650.0,completed
+228,2026-09-27 00:00:00,1,Ana Cruz,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+229,2026-07-05 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,4,180.0,completed
+230,2026-01-23 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,2,180.0,completed
+231,2026-02-01 00:00:00,5,Ella Tan,Iloilo,201,Notebook,Office,1,180.0,pending
+232,2026-09-09 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,1,180.0,completed
+233,2026-06-14 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+234,2026-06-16 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+235,2026-02-20 00:00:00,5,Ella Tan,Iloilo,201,Notebook,Office,4,180.0,completed
+236,2026-08-09 00:00:00,2,Ben Santos,Cebu,302,Backpack,Lifestyle,2,2500.0,completed
+237,2026-08-21 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,3,180.0,completed
+238,2026-06-10 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+239,2026-02-04 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,4,1400.0,completed
+240,2026-02-19 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+241,2026-01-31 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,2,2500.0,completed
+242,2026-07-30 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,1,900.0,completed
+243,2026-05-28 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+244,2026-03-21 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+245,2026-06-29 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,1,2500.0,cancelled
+246,2026-04-26 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+247,2026-01-15 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,3,650.0,completed
+248,2026-01-04 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,3,2200.0,completed
+249,2026-02-05 00:00:00,3,Cara Lim,Davao,202,Desk Organizer,Office,4,650.0,completed
+250,2026-07-12 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+251,2026-06-09 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+252,2026-03-22 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+253,2026-05-20 00:00:00,1,Ana Cruz,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,completed
+254,2026-08-01 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,4,180.0,completed
+255,2026-02-26 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+256,2026-01-24 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,3,650.0,completed
+257,2026-06-04 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,pending
+258,2026-05-29 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,3,2500.0,completed
+259,2026-03-31 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,4,180.0,completed
+260,2026-02-06 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,3,650.0,completed
+261,2026-08-24 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,1,180.0,pending
+262,2026-07-27 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,4,650.0,completed
+263,2026-07-27 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,completed
+264,2026-07-05 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,4,1400.0,completed
+265,2026-07-25 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,4,1400.0,completed
+266,2026-06-23 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+267,2026-09-19 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+268,2026-05-01 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,2,2200.0,completed
+269,2026-03-20 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,2,1400.0,completed
+270,2026-08-26 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,4,1400.0,completed
+271,2026-06-11 00:00:00,8,Henry Ramos,Davao,301,Water Bottle,Lifestyle,3,900.0,completed
+272,2026-06-05 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,4,180.0,completed
+273,2026-06-08 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,completed
+274,2026-05-27 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+275,2026-08-25 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,4,650.0,completed
+276,2026-06-14 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,2,180.0,completed
+277,2026-02-22 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+278,2026-09-16 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,1,900.0,completed
+279,2026-08-13 00:00:00,1,Ana Cruz,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+280,2026-05-25 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,3,2200.0,completed
+281,2026-06-21 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,1,900.0,completed
+282,2026-05-26 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,4,650.0,completed
+283,2026-03-14 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,1,2200.0,cancelled
+284,2026-03-08 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+285,2026-06-18 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+286,2026-09-18 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,4,900.0,completed
+287,2026-04-20 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,2,2200.0,completed
+288,2026-03-12 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,2,1400.0,completed
+289,2026-09-17 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,1,2500.0,completed
+290,2026-03-09 00:00:00,1,Ana Cruz,Metro Manila,301,Water Bottle,Lifestyle,3,900.0,completed
+291,2026-03-26 00:00:00,3,Cara Lim,,102,Wireless Mouse,Electronics,2,1400.0,completed
+292,2026-05-02 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,3,180.0,pending
+293,2026-04-30 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,4,2500.0,completed
+294,2026-04-10 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,4,2500.0,completed
+295,2026-07-15 00:00:00,8,Henry Ramos,Davao,201,Notebook,Office,3,180.0,completed
+296,2026-03-12 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,2,1400.0,cancelled
+297,2026-07-10 00:00:00,1,Ana Cruz,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+298,2026-05-26 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,1,900.0,completed
+299,2026-09-20 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,4,2200.0,completed
+300,2026-08-19 00:00:00,7,Grace Ong,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,cancelled
+301,2026-07-22 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,1,180.0,completed
+302,2026-07-11 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,1,180.0,completed
+303,2026-03-16 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+304,2026-03-13 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,4,2500.0,completed
+305,2026-02-10 00:00:00,8,Henry Ramos,Davao,201,Notebook,Office,1,180.0,completed
+306,2026-09-28 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,2,2500.0,completed
+307,2026-03-04 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,3,1400.0,completed
+308,2026-02-02 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+309,2026-09-21 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,1,650.0,completed
+310,2026-01-01 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,4,2200.0,completed
+311,2026-04-06 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,4,650.0,completed
+312,2026-02-04 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,3,650.0,pending
+313,2026-01-23 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,4,180.0,completed
+314,2026-07-02 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,1,2200.0,completed
+315,2026-06-20 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,1,1400.0,completed
+316,2026-03-31 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,3,650.0,cancelled
+317,2026-04-04 00:00:00,8,Henry Ramos,Davao,301,Water Bottle,Lifestyle,4,900.0,completed
+318,2026-01-19 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,4,900.0,completed
+319,2026-01-22 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,2,2500.0,completed
+320,2026-08-31 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,4,650.0,completed
+321,2026-01-25 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,cancelled
+322,2026-07-08 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,1,2200.0,completed
+323,2026-07-17 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,4,900.0,completed
+324,2026-07-08 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,4,180.0,pending
+325,2026-08-06 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,1,2500.0,completed
+326,2026-06-14 00:00:00,3,Cara Lim,Davao,202,Desk Organizer,Office,3,650.0,completed
+327,2026-06-06 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,3,900.0,completed
+328,2026-06-29 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+329,2026-05-21 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,4,650.0,completed
+330,2026-07-06 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+331,2026-08-13 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+332,2026-07-05 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+333,2026-08-19 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,2,-650.0,pending
+334,2026-03-12 00:00:00,6,Francis Yu,Cebu,201,Notebook,Office,1,180.0,completed
+335,2026-05-08 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,pending
+336,2026-09-13 00:00:00,1,Ana Cruz,Metro Manila,301,Water Bottle,Lifestyle,2,900.0,completed
+337,2026-08-17 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,3,2200.0,completed
+338,2026-04-13 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+339,2026-08-16 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,2,180.0,pending
+340,2026-02-03 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,3,900.0,completed
+341,2026-03-31 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,2,2200.0,completed
+342,2026-03-13 00:00:00,4,Diego Reyes,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+343,2026-07-08 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+344,2026-02-03 00:00:00,3,Cara Lim,Davao,202,Desk Organizer,Office,1,650.0,completed
+345,2026-07-29 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,4,650.0,cancelled
+346,2026-02-07 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+347,2026-03-08 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,2,1400.0,completed
+348,2026-09-23 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+349,2026-04-26 00:00:00,3,Cara Lim,Davao,102,Wireless Mouse,Electronics,3,1400.0,completed
+350,2026-05-09 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,1,2500.0,completed
+351,2026-02-17 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,3,1400.0,completed
+352,2026-03-29 00:00:00,3,Cara Lim,Davao,202,Desk Organizer,Office,2,650.0,completed
+353,2026-01-15 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,1,2500.0,completed
+354,2026-08-02 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,2,900.0,completed
+355,2026-06-04 00:00:00,1,Ana Cruz,Metro Manila,201,Notebook,Office,3,180.0,completed
+356,2026-02-07 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+357,2026-09-05 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,4,180.0,completed
+358,2026-06-10 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,2,650.0,cancelled
+359,2026-07-24 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,3,900.0,completed
+360,2026-06-13 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,1,650.0,completed
+361,2026-05-07 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+362,2026-08-03 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+363,2026-06-10 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,3,2500.0,completed
+364,2026-09-13 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,4,180.0,cancelled
+365,2026-07-21 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+366,2026-01-25 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,3,1400.0,completed
+367,2026-05-27 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,4,650.0,completed
+368,2026-05-16 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,2,180.0,completed
+369,2026-07-25 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,completed
+370,2026-02-07 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,completed
+371,2026-03-02 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,3,2500.0,completed
+372,2026-06-23 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,3,180.0,completed
+373,2026-04-12 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,2,2500.0,completed
+374,2026-01-24 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,1,650.0,completed
+375,2026-09-23 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,4,2500.0,completed
+376,2026-03-25 00:00:00,3,Cara Lim,Davao,103,USB-C Hub,Electronics,3,2200.0,completed
+377,2026-09-17 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,3,650.0,cancelled
+378,2026-09-01 00:00:00,8,Henry Ramos,Davao,301,Water Bottle,Lifestyle,3,900.0,completed
+379,2026-08-02 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,1,2200.0,completed
+380,2026-05-16 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,4,650.0,pending
+381,2026-09-03 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,completed
+382,2026-01-17 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,2,1400.0,completed
+383,2026-08-14 00:00:00,2,Ben Santos,Cebu,102,Wireless Mouse,Electronics,1,1400.0,completed
+384,2026-07-30 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,2,180.0,completed
+385,2026-03-12 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,1,2500.0,completed
+386,2026-09-27 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,4,900.0,completed
+387,2026-07-01 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,3,180.0,completed
+388,2026-04-09 00:00:00,5,Ella Tan,,202,Desk Organizer,Office,4,650.0,pending
+389,2026-04-26 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,3,650.0,pending
+390,2026-04-17 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,3,2500.0,completed
+391,2026-06-28 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,4,2200.0,completed
+392,2026-07-14 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,1,2200.0,cancelled
+393,2026-03-16 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+394,2026-06-27 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,1,900.0,pending
+395,2026-04-20 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,4,900.0,completed
+396,2026-03-12 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,3,650.0,completed
+397,2026-04-26 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,1,1400.0,completed
+398,2026-06-19 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+399,2026-01-03 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,2,900.0,pending
+400,2026-09-02 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,4,180.0,completed
+401,2026-01-31 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,3,2200.0,cancelled
+402,2026-01-20 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,2,900.0,cancelled
+403,2026-01-19 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,2,180.0,pending
+404,2026-04-06 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,4,2500.0,pending
+405,2026-06-02 00:00:00,5,Ella Tan,Iloilo,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+406,2026-08-21 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,3,2200.0,pending
+407,2026-05-20 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,4,1400.0,completed
+408,2026-08-23 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,2,2200.0,completed
+409,2026-06-01 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+410,2026-08-07 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+411,2026-04-05 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,1,180.0,pending
+412,2026-01-04 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,2,2200.0,completed
+413,2026-06-18 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,3,180.0,completed
+414,2026-05-01 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,3,2200.0,completed
+415,2026-03-23 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,3,180.0,completed
+416,2026-06-01 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,1,900.0,completed
+417,2026-09-02 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,2,1400.0,completed
+418,2026-04-22 00:00:00,6,Francis Yu,Cebu,201,Notebook,Office,4,180.0,completed
+419,2026-09-28 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,4,650.0,completed
+420,2026-02-01 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,1,650.0,cancelled
+421,2026-03-26 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+422,2026-09-08 00:00:00,8,Henry Ramos,Davao,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+423,2026-08-21 00:00:00,8,Henry Ramos,Davao,302,Backpack,Lifestyle,1,2500.0,completed
+424,2026-08-25 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,1,180.0,completed
+425,2026-07-22 00:00:00,5,Ella Tan,Iloilo,301,Water Bottle,Lifestyle,1,900.0,completed
+426,2026-02-07 00:00:00,1,Ana Cruz,Metro Manila,301,Water Bottle,Lifestyle,2,900.0,completed
+427,2026-01-31 00:00:00,6,Francis Yu,Cebu,301,Water Bottle,Lifestyle,1,900.0,pending
+428,2026-05-27 00:00:00,2,Ben Santos,Cebu,201,Notebook,Office,1,180.0,completed
+429,2026-07-11 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,4,2500.0,pending
+430,2026-07-12 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,4,180.0,completed
+431,2026-03-02 00:00:00,3,Cara Lim,Davao,301,Water Bottle,Lifestyle,3,900.0,completed
+432,2026-04-25 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,cancelled
+433,2026-08-06 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+434,2026-06-27 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+435,2026-01-17 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,1,900.0,completed
+436,2026-05-04 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,1,650.0,completed
+437,2026-08-17 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,1,650.0,completed
+438,2026-07-25 00:00:00,1,Ana Cruz,Metro Manila,102,Wireless Mouse,Electronics,1,1400.0,completed
+439,2026-03-13 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+440,2026-06-14 00:00:00,5,Ella Tan,Iloilo,102,Wireless Mouse,Electronics,3,1400.0,completed
+441,2026-07-31 00:00:00,3,Cara Lim,Davao,301,Water Bottle,Lifestyle,2,900.0,completed
+442,2026-08-07 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+443,2026-09-26 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+444,2026-06-03 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,2,-180.0,completed
+445,2026-06-03 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,2,1400.0,cancelled
+446,2026-01-30 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,4,2500.0,completed
+447,2026-07-18 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+448,2026-08-19 00:00:00,4,Diego Reyes,Metro Manila,103,USB-C Hub,Electronics,1,2200.0,cancelled
+449,2026-01-27 00:00:00,2,Ben Santos,Cebu,202,Desk Organizer,Office,2,650.0,completed
+450,2026-04-07 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+451,2026-06-20 00:00:00,4,Diego Reyes,Metro Manila,201,Notebook,Office,2,180.0,completed
+452,2026-03-02 00:00:00,1,Ana Cruz,Metro Manila,102,Wireless Mouse,Electronics,2,1400.0,completed
+453,2026-07-23 00:00:00,8,Henry Ramos,Davao,102,Wireless Mouse,Electronics,2,1400.0,cancelled
+454,2026-07-14 00:00:00,6,Francis Yu,Cebu,302,Backpack,Lifestyle,3,2500.0,completed
+455,2026-07-04 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,3,2200.0,completed
+456,2026-08-29 00:00:00,8,Henry Ramos,Davao,201,Notebook,Office,1,180.0,completed
+457,2026-06-10 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,3,1400.0,completed
+458,2026-01-09 00:00:00,4,Diego Reyes,Metro Manila,301,Water Bottle,Lifestyle,2,900.0,completed
+459,2026-04-11 00:00:00,7,Grace Ong,Metro Manila,103,USB-C Hub,Electronics,2,2200.0,completed
+460,2026-09-13 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+461,2026-09-09 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+462,2026-09-08 00:00:00,6,Francis Yu,Cebu,102,Wireless Mouse,Electronics,2,1400.0,completed
+463,2026-02-08 00:00:00,1,Ana Cruz,Metro Manila,202,Desk Organizer,Office,1,650.0,pending
+464,2026-07-31 00:00:00,1,Ana Cruz,Metro Manila,302,Backpack,Lifestyle,1,2500.0,completed
+465,2026-01-05 00:00:00,4,Diego Reyes,Metro Manila,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+466,2026-09-05 00:00:00,8,Henry Ramos,Davao,103,USB-C Hub,Electronics,1,2200.0,completed
+467,2026-01-07 00:00:00,1,Ana Cruz,Metro Manila,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+468,2026-01-09 00:00:00,5,Ella Tan,Iloilo,202,Desk Organizer,Office,3,650.0,completed
+469,2026-02-24 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,2,2500.0,cancelled
+470,2026-09-27 00:00:00,3,Cara Lim,Davao,102,Wireless Mouse,Electronics,2,1400.0,completed
+471,2026-02-10 00:00:00,6,Francis Yu,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+472,2026-04-26 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,2,180.0,completed
+473,2026-02-17 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,1,900.0,completed
+474,2026-01-29 00:00:00,7,Grace Ong,Metro Manila,202,Desk Organizer,Office,4,650.0,completed
+475,2026-08-11 00:00:00,3,Cara Lim,Davao,101,Mechanical Keyboard,Electronics,4,3200.0,completed
+476,2026-09-28 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,1,650.0,cancelled
+477,2026-05-19 00:00:00,4,Diego Reyes,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,completed
+478,2026-01-17 00:00:00,2,Ben Santos,Cebu,301,Water Bottle,Lifestyle,3,900.0,completed
+479,2026-03-15 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+480,2026-03-25 00:00:00,7,Grace Ong,Metro Manila,101,Mechanical Keyboard,Electronics,3,3200.0,completed
+481,2026-07-16 00:00:00,7,Grace Ong,Metro Manila,301,Water Bottle,Lifestyle,3,900.0,completed
+482,2026-09-14 00:00:00,3,Cara Lim,Davao,302,Backpack,Lifestyle,1,2500.0,completed
+483,2026-08-12 00:00:00,6,Francis Yu,Cebu,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+484,2026-06-17 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,4,2200.0,completed
+485,2026-09-09 00:00:00,5,Ella Tan,,302,Backpack,Lifestyle,4,2500.0,completed
+486,2026-07-14 00:00:00,7,Grace Ong,Metro Manila,201,Notebook,Office,2,180.0,completed
+487,2026-02-07 00:00:00,5,Ella Tan,Iloilo,302,Backpack,Lifestyle,2,2500.0,completed
+488,2026-07-19 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,2,180.0,completed
+489,2026-06-07 00:00:00,2,Ben Santos,Cebu,101,Mechanical Keyboard,Electronics,1,3200.0,completed
+490,2026-02-14 00:00:00,5,Ella Tan,Iloilo,101,Mechanical Keyboard,Electronics,2,3200.0,completed
+491,2026-02-22 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,4,650.0,completed
+492,2026-06-16 00:00:00,6,Francis Yu,Cebu,202,Desk Organizer,Office,1,650.0,cancelled
+493,2026-07-18 00:00:00,1,Ana Cruz,Metro Manila,103,USB-C Hub,Electronics,4,2200.0,completed
+494,2026-07-14 00:00:00,4,Diego Reyes,Metro Manila,202,Desk Organizer,Office,2,650.0,completed
+495,2026-09-10 00:00:00,5,Ella Tan,Iloilo,103,USB-C Hub,Electronics,3,2200.0,completed
+496,2026-08-04 00:00:00,3,Cara Lim,Davao,201,Notebook,Office,3,180.0,completed
+497,2026-05-07 00:00:00,2,Ben Santos,Cebu,103,USB-C Hub,Electronics,3,2200.0,completed
+498,2026-08-23 00:00:00,8,Henry Ramos,Davao,202,Desk Organizer,Office,2,650.0,completed
+499,2026-06-20 00:00:00,5,Ella Tan,Iloilo,101,Mechanical Keyboard,Electronics,4,3200.0,cancelled
+500,2026-08-14 00:00:00,7,Grace Ong,Metro Manila,302,Backpack,Lifestyle,3,2500.0,completed
+11,2026-02-10 00:00:00,4,Diego Reyes,Metro Manila,302,Backpack,Lifestyle,3,2500.0,cancelled
+26,2026-01-02 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,pending
+26,2026-01-02 00:00:00,7,Grace Ong,Metro Manila,102,Wireless Mouse,Electronics,4,1400.0,pending
