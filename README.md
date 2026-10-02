@@ -168,10 +168,6 @@ Gold produces business-facing marts:
 
 These are intentionally shaped for downstream BI tools.
 
-## How to Explain This in an Interview
-
-> I built a local Medallion Architecture pipeline where raw transactional data is preserved in a Raw/Bronze layer, standardized and quality-controlled in Silver, and transformed into business-facing Gold marts. I used Parquet for columnar storage, DuckDB for analytical SQL, automated quality checks for integrity, and pytest for code-level validation. The structure is designed so the local file system can later be replaced by object storage such as Amazon S3 or Azure Data Lake while preserving the same Bronze-Silver-Gold transformation pattern.
-
 ## Suggested Portfolio Extensions
 
 1. Replace generated CSV with an API or public dataset.
